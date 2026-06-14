@@ -47,6 +47,5 @@ Generated business recommendations based on product performance, revenue, market
 ## Repository Structure
 
 ```text
-datasets/
+datasets & excel/
 reports/
-excel_work/
